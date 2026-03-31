@@ -24,6 +24,8 @@ El proyecto se desarrolla en 3 etapas evolutivas:
 
 1. Clonar el repositorio en GitHub y ejecutar notebook.
 
+https://github.com/mosqueta-code/proyecto_deep_learning.git
+
    
 
 
